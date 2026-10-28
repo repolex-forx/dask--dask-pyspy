@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "dask",
+  "repo": "dask-pyspy",
+  "versions": [
+    {
+      "commit": "e75b2377ea267bb20ac3b163f128a54c40d9f0c3",
+      "parsed_at": "2026-10-28T11:24:41.618912+00:00",
+      "filetree": "filetree/e75b2377ea267bb20ac3b163f128a54c40d9f0c3.nq.gz",
+      "blobs": [
+        "blob/89e00acc0d13a526a29d24f8af9949ab38ec32e7.nq.gz",
+        "blob/a87319006a7dadd79fc0922108d0abd6a2002013.nq.gz",
+        "blob/8332de349fb740af44a3de304dba51d670ff609e.nq.gz",
+        "blob/786e5658ffd3c9cb563b44af4bd26c2f422460e8.nq.gz",
+        "blob/1933f7099beb10dd7e94bd0321e292503dae372e.nq.gz",
+        "blob/ed5cdada8ea154535f3feb01a53a5caada55aa04.nq.gz",
+        "blob/fdbd759157975b50bcad9075b4978791e837d78a.nq.gz",
+        "blob/754fb8b2860a8c04e5081be99aacac41d3bee1d5.nq.gz",
+        "blob/3c8e723e37ac266e2ac2041222fb13f924b6c56a.nq.gz",
+        "blob/e58bbfccae963834c7f895f780f74b00416e4ab9.nq.gz",
+        "blob/bf8ce24753c3488646816459d4e99bd89388b531.nq.gz",
+        "blob/07f2f7986f07e33ddb3be28f2c3a3503fc4bd9ca.nq.gz",
+        "blob/b324f1dc0a6af24c842a098f4ecd0cd598a4447a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
