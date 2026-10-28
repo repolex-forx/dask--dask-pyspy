@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/dask/dask-pyspy/commit/e75b2377ea267bb20ac3b163f128a54c40d9f0c3",
       "git:hexsha": "e75b2377ea267bb20ac3b163f128a54c40d9f0c3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
