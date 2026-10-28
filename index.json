@@ -1,0 +1,11 @@
+{
+  "org": "dask",
+  "repo": "dask-pyspy",
+  "versions": [
+    {
+      "commit": "e75b2377ea267bb20ac3b163f128a54c40d9f0c3",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:27:17.693481+00:00"
+    }
+  ]
+}
